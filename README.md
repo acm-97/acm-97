@@ -6,10 +6,13 @@
 </p>
 
 
-I am a Software Engineer with 3 years of experience. \
+I am a Software Engineer with 3 years of experience.\
 I offer advanced knowledge of frontend web technologies, mainly ReactJS or NextJS.\
 In addition, I can offer some experience in development with the MERN stack .\
 I am a web programming enthusiast, eager to learn new technologies and skills, always looking for new and interesting projects where improve my skills.
+
+- 👯 I’m looking to collaborate on some of the amazing/interesting projects out there.
+- 🌱 I am constantly learning
 
 ## My skills
 
@@ -20,18 +23,3 @@ I am a web programming enthusiast, eager to learn new technologies and skills, a
 - **``Package Manager:``** npm, yarn\
 - **``Personal:``** Teamwork, Initiative, Creativity, Dedication, Organization\
 - **``Languages:``** Spanish (native), English (B1)
-
-<!--
-**acm-97/acm-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
