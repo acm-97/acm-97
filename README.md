@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="portfolio-v2-swart-zeta.vercel.app/">Website</a> •
+  <a href="https://portfolio-v2-swart-zeta.vercel.app/">Website</a> •
   <a href="https://www.linkedin.com/in/acm97/">Linkedin</a>
 </p>
 
