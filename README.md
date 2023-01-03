@@ -16,10 +16,10 @@ I am a web programming enthusiast, eager to learn new technologies and skills, a
 
 ## My skills
 
-- **``Programming languages:``** HTML5, CSS3, Less, Sass, JavaScript, TypeScript, Python\
-- **``JavaScript Libraries:``** ReactJS, Formik, React Query, React Hook Form, Leaflet\
-- **``Frameworks:``** Bootstrap, NextJS, Angular, Angular Material, Ant Design, Material UI\
-- **``Databases:``** PostgreSQL, MySQL, MongoDB\
-- **``Package Manager:``** npm, yarn\
-- **``Personal:``** Teamwork, Initiative, Creativity, Dedication, Organization\
+- **``Programming languages:``** HTML5, CSS3, Less, Sass, JavaScript, TypeScript, Python
+- **``JavaScript Libraries:``** ReactJS, Formik, React Query, React Hook Form, Leaflet
+- **``Frameworks:``** Bootstrap, NextJS, Angular, Angular Material, Ant Design, Material UI
+- **``Databases:``** PostgreSQL, MySQL, MongoDB
+- **``Package Manager:``** npm, yarn
+- **``Personal:``** Teamwork, Initiative, Creativity, Dedication, Organization
 - **``Languages:``** Spanish (native), English (B1)
