@@ -6,10 +6,10 @@
 </p>
 
 
-I am a Software Engineer with 3 years of experience.\
+I'm a Software Engineer with 3 years of experience.\
+I'm a web development lover, not afraid of challenges and always open to new offers or work experiences.
 I offer advanced knowledge of frontend web technologies, mainly ReactJS or NextJS.\
-In addition, I can offer some experience in development with the MERN stack .\
-I am a web programming enthusiast, eager to learn new technologies and skills, always looking for new and interesting projects where improve my skills.
+In addition, I can offer some experience in development with the MERN stack.
 
 - 👯 I’m looking to collaborate on some of the amazing/interesting projects out there.
 - 🌱 I am also always working on my own projects
