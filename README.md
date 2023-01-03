@@ -12,7 +12,7 @@ In addition, I can offer some experience in development with the MERN stack .\
 I am a web programming enthusiast, eager to learn new technologies and skills, always looking for new and interesting projects where improve my skills.
 
 - 👯 I’m looking to collaborate on some of the amazing/interesting projects out there.
-- 🌱 I am constantly learning
+- 🌱 I am also always working on my own projects
 
 ## My skills
 
