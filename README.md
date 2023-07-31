@@ -6,20 +6,14 @@
 </p>
 
 
-I'm a Software Engineer with 3 years of experience.\
-I'm a web development lover, not afraid of challenges and always open to new offers or work experiences.
-I offer advanced knowledge of frontend web technologies, mainly ReactJS or NextJS.\
-In addition, I can offer some experience in development with the MERN stack.
+Meticulous web developer with over 3 years of front‑end experience and passion for responsive website design. Focused on building
+accessible products for the web, I offer advanced knowledge of front‑end web technologies mainly ReactJS and NextJS.
 
 - 👯 I’m looking to collaborate on some of the amazing/interesting projects out there.
-- 🌱 I am also always working on my own projects
 
 ## My skills
 
 - **``Programming languages:``** HTML5, CSS3, Less, Sass, JavaScript, TypeScript, Python
 - **``JavaScript Libraries:``** ReactJS, Formik, React Query, React Hook Form, Leaflet
-- **``Frameworks:``** Bootstrap, NextJS, Angular, Angular Material, Ant Design, Material UI
-- **``Databases:``** PostgreSQL, MySQL, MongoDB
-- **``Package Manager:``** npm, yarn
-- **``Personal:``** Teamwork, Initiative, Creativity, Dedication, Organization
+- **``Frameworks:``** NextJS, Angular, Angular Material, Ant Design, Material UI, Tailwind CSS
 - **``Languages:``** Spanish (native), English (B1)
