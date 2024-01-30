@@ -6,7 +6,7 @@
 </p>
 
 
-Meticulous web developer with over 3 years of front‑end experience and passion for responsive website design. Focused on building
+Meticulous web developer with over 4 years of front‑end experience and passion for responsive website design. Focused on building
 accessible products for the web, I offer advanced knowledge of front‑end web technologies mainly ReactJS and NextJS.
 
 - 👯 I’m looking to collaborate on some of the amazing/interesting projects out there.
